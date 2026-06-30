@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background: #121212;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 65%;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+
+.tagline {
+    color: #aaaaaa;
+    font-size: 18px;
+}
+
+h2 {
+    color: #4fc3f7;
+    margin-top: 35px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+hr {
+    width: 70%;
+    border: 1px solid #444;
+    margin: 30px auto;
+}
